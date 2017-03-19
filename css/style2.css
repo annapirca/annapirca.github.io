@@ -1,0 +1,43 @@
+/*ëlement selector*/
+.cat{
+	width: 100%;
+}
+body {
+	background-color: #CEEDC0;
+	}
+
+/*class selector*/
+.navbar-default{
+	    background-color: #698E7F;
+	    background-image: linear-gradient(to bottom,#fff 0,#698E7F 100%)
+}
+
+
+h4 {
+    font-family: 'Griffy', cursive;
+}
+
+p {
+font-family: 'Griffy', cursive;
+}
+
+.card{
+	margin-top: 10px;
+	border: 1px solid #ccc;
+
+}
+
+.info{
+	text-align: center;
+}
+
+.brandphoto{
+max-height: 100%;
+}
+
+.navlink{
+	color: white;
+	position: relative;
+	top: 15px;
+	font-size: 18px;
+}
